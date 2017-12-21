@@ -1,4 +1,4 @@
-import tensorflow as tflow
+import tensorflow as tf
 
 class CNN():
     '''
